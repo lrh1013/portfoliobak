@@ -1,0 +1,6 @@
+# 빌드 결과물 무시
+build
+coverage
+
+# 모든 HTML 파일 무시
+**/*.html

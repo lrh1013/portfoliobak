@@ -17,7 +17,7 @@ const ProjectList = () => {
     const fetchData = async () => {
       try {
         const res = await fetch('/data/projectData.json')
-        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`)
+        if (!res.ok) throw new Error(`HTTP status: ${res.status}`)
 
         const data: ProjectData[] = await res.json()
         const processedData = data.map((item) => ({
@@ -54,6 +54,7 @@ const ProjectList = () => {
         {filteredProjects.map((project, index) => (
           <ProjectItem
             key={index}
+            projectID={project.projectID}
             title={project.title}
             image={project.image}
           />

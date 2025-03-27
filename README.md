@@ -1,54 +1,32 @@
-# React + TypeScript + Vite
+## 📌 프로젝트 소개
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+안녕하세요! 제 포트폴리오 사이트를 방문해주셔서 감사합니다 🙌  
+현재 페이지는 열심히 준비 중입니다.  
+곧 다양한 프로젝트와 정보를 담아서 업데이트 할 예정이니 조금만 기다려주세요!
 
-Currently, two official plugins are available:
+방문해주셔서 감사합니다 🙏
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 사용한 기술 & 패키지
 
-## Expanding the ESLint configuration
+- React (with Vite)
+- TypeScript
+- SCSS
+- JSON
+- EsLint
+- Prettier
+- React Bootstrap
+- React Router Dom
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 📁 주요 기능 (작업중)
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- 반응형 레이아웃
+- 접근성을 고려한 컴포넌트 설계
+- JSON 기반 프로젝트 리스트 관리
+- 탭 필터링 기능을 통한 카테고리별 프로젝트 아이템 출력
+- 다크모드/라이트모드 전환 기능
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🙋‍♀️ About Me
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+- MBTI: ISTP
+- Email: [메일 보내기](mailto:dolefulmoon@naver.com)
+- Blog: [VElog 바로가기](https://velog.io/@dolefulmoon/posts)

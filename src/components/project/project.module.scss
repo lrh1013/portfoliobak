@@ -1,5 +1,18 @@
 @charset "UTF-8";
 
+.project-tab {
+  display: flex;
+  margin-bottom: 2rem;
+
+  button {
+    flex: 1;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 0;
+    font-size: 1.6rem;
+  }
+}
+
 .project-list {
   display: flex;
   flex-wrap: wrap;

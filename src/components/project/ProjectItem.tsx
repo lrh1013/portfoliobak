@@ -1,6 +1,10 @@
 import { Link } from 'react-router-dom'
-import { ProjectItemProps } from '@/utils/interfaces/projectData'
 import Styles from '@/components/project/project.module.scss'
+
+interface ProjectItemProps {
+  title: string
+  image: string
+}
 
 const ProjectItem = ({ title, image }: ProjectItemProps) => {
   return (

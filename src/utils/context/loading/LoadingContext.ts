@@ -1,4 +1,9 @@
 import { createContext } from 'react'
-import type { LoadingContextType } from '@/utils/context/LoadingType'
+
+export type LoadingContextType = {
+  isLoading: boolean
+  showLoading: () => void
+  hideLoading: () => void
+}
 
 export const LoadingContext = createContext<LoadingContextType | null>(null)

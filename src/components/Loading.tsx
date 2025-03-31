@@ -1,12 +1,11 @@
-import { useContext } from 'react'
-import { LoadingContext } from '@/utils/context/LoadingContext'
+import { useLoading } from '@/utils/context/loading/useLoading'
 
 function Loading() {
-  const context = useContext(LoadingContext)
-  if (!context) return null
+  const { isLoading } = useLoading()
 
-  const { isLoading } = context
-  if (!isLoading) return null
+  if (!isLoading) {
+    return null
+  }
 
   return <div className="loading-overlay">로딩 중</div>
 }

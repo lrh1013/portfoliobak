@@ -1,5 +1,5 @@
 import { useRef } from 'react'
-import { FilterCategory } from '@/utils/interfaces/projectData'
+import { FilterCategory } from '@/utils/interface/projectData'
 import Button from 'react-bootstrap/Button'
 import Styles from '@/components/project/project.module.scss'
 

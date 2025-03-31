@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { ProjectData, FilterCategory } from '@/utils/interfaces/projectData'
+import { ProjectData, FilterCategory } from '@/utils/interface/projectData'
 import Styles from '@/components/project/project.module.scss'
 import ProjectTab from '@/components/project/ProjectTab'
 import ProjectItem from '@/components/project/ProjectItem'

@@ -4,7 +4,6 @@
     "category": "work",
     "title": "두산에너빌리티",
     "description": "와이드한 화면 구성으로 필요한 정보가 한눈에 들어오는 직관적인 레이아웃이 특징입니다.\n메인, 비전, 역사 등 핵심 콘텐츠 3페이지를 중심으로 구성하였으며, 주력 사업인 ‘풍력 발전’을 모티브로 풍차가 회전하는 듯한 인터랙션 효과를 적용해 브랜드의 아이덴티티를 시각적으로 표현했습니다.\n또한 스크롤 이벤트 기반의 트렌디한 효과를 활용해 정보 탐색 과정에서 지루함을 줄이고, 사용자 경험을 고려한 자연스러운 흐름을 완성했습니다.",
-    "image": "https://picsum.photos/600/600?random=1",
     "siteUrl": "https://www.doosanenerbility.com/kr"
   },
   {
@@ -12,7 +11,6 @@
     "category": "work",
     "title": "유진그룹",
     "description": "기존 사이트에서는 볼 수 없었던 트렌디한 연출을 구현하기 위해, 기획 단계부터 팀원 전원이 국내외 다양한 레퍼런스를 광범위하게 분석하며 방향을 설정했습니다.\n스크롤 이펙트, 마우스 오버 등 다양한 인터랙션 요소를 적극적으로 활용하여 사용자가 보다 흥미롭고 풍부한 경험을 느낄 수 있도록 작업했습니다.",
-    "image": "https://picsum.photos/600/600?random=2",
     "siteUrl": "https://eugenes.co.kr/"
   },
   {
@@ -20,7 +18,6 @@
     "category": "work",
     "title": "유진기업",
     "description": "클라이언트 측 요청으로 메인에는 풀페이지 모션 효과를 적용하고, 동시에 사업장 검색 기능을 눈에 띄게 강조하는 방향으로 기획되었습니다.\n단순한 검색창이 아닌 조금 더 특별한 경험을 원한다는 요구에 따라 작업자들과 다각도로 논의한 끝에, 팝업 형태의 검색창에 AJAX를 적용하여 전체적인 흐름을 방해하지 않으면서도 간결하고 매끄러운 검색 경험을 구현했습니다.",
-    "image": "https://picsum.photos/600/600?random=3",
     "siteUrl": "https://eugenecorp.co.kr/"
   },
   {
@@ -28,7 +25,6 @@
     "category": "work",
     "title": "두산헤리티지",
     "description": "두산그룹의 고유한 역사를 담은 브랜드 헤리티지 전시관 웹사이트입니다.\n전체적으로는 고급스럽고 차분한 무드를 유지하면서도, 주요 포인트에서는 시각적 임팩트를 놓치지 않도록 구성에 신경 썼습니다.\n특히 핵심 기능인 전시 정보 및 소장품 검색은 주제별로 손쉽게 탐색할 수 있도록 UX를 설계하고, 이미지 중심의 레이아웃으로 직관적이고 몰입감 있는 정보 전달을 구현했습니다.",
-    "image": "https://picsum.photos/600/600?random=4",
     "siteUrl": "https://www.doosanheritage1896.com/kr"
   },
   {
@@ -36,90 +32,77 @@
     "category": "work",
     "title": "백상갤러리",
     "description": "화가들의 작품을 소개하고 판매하는 온라인 예술 공간 ‘백상 갤러리’ 웹사이트입니다.\n명화와 예술 작품을 다루는 사이트인 만큼, 사용자가 실제 갤러리를 방문한 듯한 경험을 느낄 수 있도록 잔잔하면서도 감각적인 인터랙션과 레이아웃 구성에 집중했습니다.\n전시 공간의 고요함과 작품의 아름다움이 어우러지도록, 전체적인 톤과 효과들은 세련되고 안정감 있는 분위기를 유지했습니다.",
-    "image": "https://picsum.photos/600/600?random=5",
     "siteUrl": "https://bxgs.co.kr/"
   },
   {
     "projectID": "sjeng",
     "category": "work",
     "title": "성진메탈",
-    "image": "https://picsum.photos/600/600?random=6",
     "siteUrl": "https://www.sjeng.kr/"
   },
   {
     "projectID": "lavarwave",
     "category": "work",
     "title": "라바웨이브",
-    "image": "https://picsum.photos/600/600?random=14",
     "siteUrl": "https://www.lavarwave.co.kr/"
   },
   {
     "projectID": "leaderssys",
     "category": "work",
     "title": "리더스시스템즈",
-    "image": "https://picsum.photos/600/600?random=10",
     "siteUrl": "https://leaderssys.com/"
   },
   {
     "projectID": "wickedstorm",
     "category": "work",
     "title": "위키드스톰",
-    "image": "https://picsum.photos/600/600?random=17",
     "siteUrl": "https://wickedstorm.kr/"
   },
   {
     "projectID": "asagopost",
     "category": "work",
     "title": "아주사소한고백",
-    "image": "https://picsum.photos/600/600?random=7",
     "siteUrl": "https://www.asagopost.com/"
   },
   {
     "projectID": "hhblower",
     "category": "work",
     "title": "황해전기",
-    "image": "https://picsum.photos/600/600?random=11",
     "siteUrl": "https://hhblower.co.kr/"
   },
   {
     "projectID": "medific",
     "category": "work",
     "title": "메디픽",
-    "image": "https://picsum.photos/600/600?random=12",
     "siteUrl": "https://www.medific.co.kr/"
   },
   {
     "projectID": "allba",
     "category": "work",
     "title": "올바",
-    "image": "https://picsum.photos/600/600?random=13",
     "siteUrl": "https://allba.life/"
   },
   {
     "projectID": "khima",
     "category": "work",
     "title": "대한보건의료정보관리사협회",
-    "image": "https://picsum.photos/600/600?random=8",
     "siteUrl": "https://www.khima.or.kr/"
   },
   {
     "projectID": "kahime",
     "category": "work",
     "title": "한국보건의료정보관리교육평가원",
-    "image": "https://picsum.photos/600/600?random=9",
     "siteUrl": "https://www.kahime.or.kr/"
   },
   {
     "projectID": "illite",
     "category": "work",
     "title": "용궁일라이트",
-    "image": "https://picsum.photos/600/600?random=15",
     "siteUrl": "https://www.illite.com/"
   },
   {
     "projectID": "practice1",
     "category": "practice",
-    "title": "연습1",
-    "image": "https://picsum.photos/600/600?random=16"
+    "title": "연습1"
   }
 ]

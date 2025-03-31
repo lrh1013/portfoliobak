@@ -12,7 +12,6 @@ export type FilterCategory = 'all' | 'work' | 'practice'
  * 'category'    : 카테고리
  * 'title'       : 프로젝트 제목
  * 'description' : 프로젝트 설명
- * 'image'       : 프로젝트 썸네일
  * 'siteUrl'     : 프로젝트 실주소
  */
 export interface ProjectData {
@@ -20,6 +19,5 @@ export interface ProjectData {
   category?: FilterCategory
   title: string
   description: string
-  image: string
   siteUrl: string
 }
